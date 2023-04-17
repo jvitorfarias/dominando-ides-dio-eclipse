@@ -1,4 +1,4 @@
-package primeiro.programa.segunda.tentativa.model;
+package primeiro.programa.segunda.tentativa.calculadora.model;
 
 import java.util.Objects;
 

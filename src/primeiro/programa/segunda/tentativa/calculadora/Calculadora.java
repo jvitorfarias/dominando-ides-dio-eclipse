@@ -1,4 +1,4 @@
-package primeiro.programa.calculadora;
+package primeiro.programa.segunda.tentativa.calculadora;
 
 import java.util.Scanner;
 

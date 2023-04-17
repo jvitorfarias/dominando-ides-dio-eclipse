@@ -1,6 +1,6 @@
-package primeiro.programa.segunda.tentativa.java;
+package primeiro.programa.segunda.tentativa.calculadora.java;
 
-	import primeiro.programa.segunda.tentativa.model.Gato;
+	import primeiro.programa.segunda.tentativa.calculadora.model.Gato;
 
 public class Primeiro_programa_java {
 	
