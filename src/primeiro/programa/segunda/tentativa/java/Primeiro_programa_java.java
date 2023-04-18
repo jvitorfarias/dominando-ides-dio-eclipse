@@ -1,6 +1,6 @@
-package primeiro.programa.segunda.tentativa.calculadora.java;
+package primeiro.programa.segunda.tentativa.java;
 
-	import primeiro.programa.segunda.tentativa.calculadora.model.Gato;
+	import primeiro.programa.segunda.tentativa.model.Gato;
 
 public class Primeiro_programa_java {
 	
@@ -19,8 +19,8 @@ public class Primeiro_programa_java {
 		}
 }
 
-     /*Exemplo para mostrar como importar uma class dentro do mesmo arquivo(Ctrl + Shift + O);
-  * Ao rodar o programa, as Strings são mostradas como código fonte, pois não foram instanciadas*/
+     /*Example to show how to import a class within the same file (Ctrl + Shift + O);
+    * When running the program, the Strings are shown as source code, as they were not instantiated*/
 
 class Livros {
 	private String nome;
