@@ -23,7 +23,7 @@ public class calculadora {
 		System.out.println(subtracao);
 		System.out.println(multiplicacao);
 		System.out.println(divisao);
-	
+	/* It is always important to close the data entry so as not to feed resources during program execution */
 		scan.close();
 	}
 
