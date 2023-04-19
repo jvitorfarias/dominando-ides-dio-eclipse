@@ -9,9 +9,9 @@ public class calculadora {
 		
 		double a, b;
 		
-		System.out.println("Digite o primeiro valor: ");
+		System.out.println("Digite aqui o primeiro valor: ");
 		a = scan.nextInt();
-		System.out.println("Digite o segundo valor: ");
+		System.out.println("Digite aqui o segundo valor: ");
 		b = scan.nextInt();
 		
 		double soma = soma(a,b);
